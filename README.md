@@ -7,7 +7,7 @@ I mainly work with **C# and .NET**, while building my own full-stack projects wi
 ### 🚀 Selected projects
 
 - [**Wariatkowo**](https://github.com/th3bill1/wariatkowo) — self-hosted household management and smart-home platform built with React, TypeScript, Node.js and SQLite, integrated with Home Assistant and Google Calendar.
-- [**Hitch2Ride**](https://github.com/Hitch2Ride) — full-stack travel and outdoor activity platform developed as my engineering thesis using ASP.NET Core, React, Flutter and MySQL.
+- [**Hitch2Ride**](https://github.com/Hitch2Ride) — full-stack travel platform for hitchhikers developed as my engineering thesis using ASP.NET Core, React, Flutter and MySQL.
 - [**MSI-Tak**](https://github.com/th3bill1/msi-tak) — Tak board game engine with multiple AI players, including Monte Carlo Tree Search variants, built in .NET.
 
 ### 🌱 Currently
